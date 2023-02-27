@@ -9,7 +9,7 @@ LOG_GROUP_ID = "-1001632507151"
 GBAN_LOG_GROUP_ID = "-1001632507151"
 MESSAGE_DUMP_CHAT = "-1001508910413"
 WELCOME_DELAY_KICK_SEC = "300"
-MONGO_URL = "mongodb+srv://123:123@manager.t6nkar1.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URL = "mongodb+srv://123:123@cluster0.llpqcf9.mongodb.net/?retryWrites=true&w=majority"
 ARQ_API_KEY = "CISUWT-EWPYHE-YOITGT-EEKWOX-ARQ"
 ARQ_API_URL = "https://arq.hamker.in"
 LOG_MENTIONS = True
